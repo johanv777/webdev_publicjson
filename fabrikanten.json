@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "naam": "Lockheed Martin",
+    "land": "USA",
+    "opgericht": 1995,
+    "website": "https://www.lockheedmartin.com",
+    "is_beursgenoteerd": true
+  },
+  {
+    "id": 102,
+    "naam": "McDonnell Douglas / Boeing",
+    "land": "USA",
+    "opgericht": 1967,
+    "website": "https://www.boeing.com",
+    "is_beursgenoteerd": true
+  },
+  {
+    "id": 103,
+    "naam": "Grumman",
+    "land": "USA",
+    "opgericht": 1929,
+    "website": "https://www.northropgrumman.com",
+    "is_beursgenoteerd": true
+  },
+  {
+    "id": 104,
+    "naam": "North American Aviation",
+    "land": "USA",
+    "opgericht": 1928,
+    "website": "N/A",
+    "is_beursgenoteerd": false
+  },
+  {
+    "id": 105,
+    "naam": "Northrop",
+    "land": "USA",
+    "opgericht": 1939,
+    "website": "https://www.northropgrumman.com",
+    "is_beursgenoteerd": true
+  }
+]

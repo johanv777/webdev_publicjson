@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "naam": "F-16 Fighting Falcon",
+    "beschrijving": "Een compacte, multi-role straaljager die bekend staat om zijn wendbaarheid en 'bubble' canopy voor superieur zicht.",
+    "hardpoints": 11,
+    "is_operationeel": true,
+    "eerste_testvlucht": "1974-01-20",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f16.jpg?raw=true",
+    "generatie": "4e Generatie",
+    "operaties": ["Golfoorlog", "Oorlog in Afghanistan", "Irak-oorlog"],
+    "fabrikant_info": {
+        "id": 101,
+        "naam": "Lockheed Martin",
+        "land": "USA",
+        "opgericht": 1995,
+        "website": "https://www.lockheedmartin.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 2,
+    "naam": "F-15 Eagle",
+    "beschrijving": "Een tactische onderscheppingsjager ontworpen om luchtoverwicht te verkrijgen en te behouden in alle weersomstandigheden.",
+    "hardpoints": 11,
+    "is_operationeel": true,
+    "eerste_testvlucht": "1972-07-27",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f15.jpg?raw=true",
+    "generatie": "4e Generatie",
+    "operaties": ["Golfoorlog", "Kosovo-oorlog", "Oorlog in Libanon"],
+    "fabrikant_info": {
+        "id": 102,
+        "naam": "McDonnell Douglas / Boeing",
+        "land": "USA",
+        "opgericht": 1967,
+        "website": "https://www.boeing.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 3,
+    "naam": "F-14 Tomcat",
+    "beschrijving": "Beroemd om zijn verstelbare vleugels, diende deze jager decennia als het primaire verdedigingswapen van de Amerikaanse vloot.",
+    "hardpoints": 10,
+    "is_operationeel": false,
+    "eerste_testvlucht": "1970-12-21",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f14.jpg?raw=true",
+    "generatie": "4e Generatie",
+    "operaties": ["Vietnamoorlog", "Golfoorlog", "Oorlog in Afghanistan"],
+    "fabrikant_info": {
+        "id": 103,
+        "naam": "Grumman",
+        "land": "USA",
+        "opgericht": 1929,
+        "website": "https://www.northropgrumman.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 4,
+    "naam": "F-117 Nighthawk",
+    "beschrijving": "Het eerste operationele vliegtuig ter wereld dat volledig was ontworpen rondom stealth-technologie.",
+    "hardpoints": 2,
+    "is_operationeel": false,
+    "eerste_testvlucht": "1981-06-18",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f117.jpg?raw=true",
+    "generatie": "N.v.t. (Stealth)",
+    "operaties": ["Invasie van Panama", "Golfoorlog", "Kosovo-oorlog"],
+    "fabrikant_info": {
+        "id": 101,
+        "naam": "Lockheed Martin",
+        "land": "USA",
+        "opgericht": 1995,
+        "website": "https://www.lockheedmartin.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 5,
+    "naam": "F-22 Raptor",
+    "beschrijving": "Een onzichtbare luchtoverwichtsjager die stealth, supercruise en extreme wendbaarheid combineert.",
+    "hardpoints": 4,
+    "is_operationeel": true,
+    "eerste_testvlucht": "1997-09-07",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f22.jpg?raw=true",
+    "generatie": "5e Generatie",
+    "operaties": ["Syrische Burgeroorlog", "ISIS-interventie", "Luchtruimbewaking"],
+    "fabrikant_info": {
+        "id": 101,
+        "naam": "Lockheed Martin",
+        "land": "USA",
+        "opgericht": 1995,
+        "website": "https://www.lockheedmartin.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 6,
+    "naam": "F-35 Lightning II",
+    "beschrijving": "Een hypermodern multi-role gevechtsvliegtuig ontwikkeld voor zowel lucht- als gronddoelen met geavanceerde sensoren.",
+    "hardpoints": 6,
+    "is_operationeel": true,
+    "eerste_testvlucht": "2006-12-15",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f35.jpg?raw=true",
+    "generatie": "5e Generatie",
+    "operaties": ["ISIS-interventie", "Operatie Guardian of the Walls", "Luchtpatrouilles"],
+    "fabrikant_info": {
+        "id": 101,
+        "naam": "Lockheed Martin",
+        "land": "USA",
+        "opgericht": 1995,
+        "website": "https://www.lockheedmartin.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 7,
+    "naam": "F-100 Super Sabre",
+    "beschrijving": "De eerste Amerikaanse jager die in horizontale vlucht supersonische snelheden kon bereiken.",
+    "hardpoints": 6,
+    "is_operationeel": false,
+    "eerste_testvlucht": "1953-05-25",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f100.jpg?raw=true",
+    "generatie": "2e Generatie",
+    "operaties": ["Vietnamoorlog", "Laotiaanse Burgeroorlog", "Algerijnse Oorlog"],
+    "fabrikant_info": {
+        "id": 104,
+        "naam": "North American Aviation",
+        "land": "USA",
+        "opgericht": 1928,
+        "website": "N/A",
+        "is_beursgenoteerd": false
+    }
+  },
+  {
+    "id": 8,
+    "naam": "F/A-18 Hornet",
+    "beschrijving": "Een veelzijdig jachtvliegtuig dat zowel vanaf vliegdekschepen als landbases kan opereren.",
+    "hardpoints": 9,
+    "is_operationeel": true,
+    "eerste_testvlucht": "1978-11-18",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/fa-18.jpg?raw=true",
+    "generatie": "4e Generatie",
+    "operaties": ["Golfoorlog", "Operatie Desert Fox", "Irak-oorlog"],
+    "fabrikant_info": {
+        "id": 102,
+        "naam": "McDonnell Douglas / Boeing",
+        "land": "USA",
+        "opgericht": 1967,
+        "website": "https://www.boeing.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 9,
+    "naam": "F-5 Freedom Fighter",
+    "beschrijving": "Een lichtgewicht en kosteneffectieve jager die door veel bondgenoten wereldwijd werd geadopteerd.",
+    "hardpoints": 7,
+    "is_operationeel": true,
+    "eerste_testvlucht": "1959-07-30",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f5.jpg?raw=true",
+    "generatie": "3e Generatie",
+    "operaties": ["Vietnamoorlog", "Ogaden-oorlog", "Iran-Irak oorlog"],
+    "fabrikant_info": {
+        "id": 105,
+        "naam": "Northrop",
+        "land": "USA",
+        "opgericht": 1939,
+        "website": "https://www.northropgrumman.com",
+        "is_beursgenoteerd": true
+    }
+  },
+  {
+    "id": 10,
+    "naam": "F-4 Phantom II",
+    "beschrijving": "Een krachtige jachtbommenwerper met twee motoren die iconisch werd tijdens de Koude Oorlog.",
+    "hardpoints": 9,
+    "is_operationeel": false,
+    "eerste_testvlucht": "1958-05-27",
+    "image_url": "https://github.com/AP-G-1PRO-Webontwikkeling/project-webontwikkeling-2025-johanv777/blob/main/project/images/f4.jpg?raw=true",
+    "generatie": "3e Generatie",
+    "operaties": ["Vietnamoorlog", "Jom Kipoeroorlog", "Golfoorlog"],
+    "fabrikant_info": {
+        "id": 102,
+        "naam": "McDonnell Douglas / Boeing",
+        "land": "USA",
+        "opgericht": 1967,
+        "website": "https://www.boeing.com",
+        "is_beursgenoteerd": true
+    }
+  }
+]
